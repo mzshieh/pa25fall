@@ -63,8 +63,11 @@
 
 ## Term Project
 
-TBD
-
+1. Midterm:
+   + [Specification](https://andyjjrt.notion.site/1141-Python-284d9de3b3ac805d9ff5c067da8c4cac)
+2. Final:
+   + [Specification](https://andyjjrt.notion.site/1141-Python-2b2d9de3b3ac8074ae63c19072d1a5d6)
+   
 ## Past Term Poject
 
 ### 2025 Spring
